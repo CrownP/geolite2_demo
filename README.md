@@ -29,7 +29,5 @@ GeoLite2的Java实现，Jar包部署可用
 
 
 **数据丰富度对比：**
-![img](F:\IDEA project\geolite2_demo\src\main\resources\images\watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L0Nyb3duUA==,size_16,color_FFFFFF,t_70)
-
-
+![img](https://img-blog.csdnimg.cn/20190925095729296.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L0Nyb3duUA==,size_16,color_FFFFFF,t_70)
 
