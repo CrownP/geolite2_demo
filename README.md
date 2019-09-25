@@ -76,20 +76,18 @@ https://dev.maxmind.com/geoip/geoip2/geolite2/
 
 ## 3、Java使用GeoLite2教程
 
-**demo源代码：**https://github.com/CrownP/geolite2_demo
-
 **添加maven依赖**
 
+```
 <!-- GeoLite2依赖 -->
 <dependency>
     <groupId>com.maxmind.geoip2</groupId>
     <artifactId>geoip2</artifactId>
     <version>2.12.0</version>
 </dependency>
+```
 
-
-
-具体请查看代码，已加上充分注释！
+**具体请查看代码，已加上充分注释！**
 
 
 
