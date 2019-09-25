@@ -7,7 +7,7 @@ GeoLite2的Java实现，Jar包部署可用
 
 例如，解析ip（128.101.101.101）的信息如下：
 
-![img](https://img-blog.csdnimg.cn/20190925094245809.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L0Nyb3duUA==,size_16,color_FFFFFF,t_70)![点击并拖拽以移动](data:image/gif;base64,R0lGODlhAQABAPABAP///wAAACH5BAEKAAAALAAAAAABAAEAAAICRAEAOw==)
+![img](https://img-blog.csdnimg.cn/20190925094245809.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L0Nyb3duUA==,size_16,color_FFFFFF,t_70)
 
 
 
